@@ -10,7 +10,7 @@ namespace ConsoleAppGitHub
     {
         static void Main(string[] args)
         {
-            Console.writeLine("Hello Github! "); 
+            Console.WriteLine("Hello Github! "); 
 
         }
     }
